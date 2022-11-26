@@ -1,6 +1,6 @@
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULT
 http://168.205.87.198:8555/live/1221/123456/30.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV TRIBUNA SANTOS SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberto",GLOBO TV TRIBUNA SANTOS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71766
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5113
@@ -20,13 +20,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5117
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5220
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-iyOpen-RjFA/YH4zezm-F9I/AAAAAAABBwY/w0GFRRxA6U4pbFHfPY-hpDCUo3-8hba4gCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Undefined",Canal 2 Perico (480p)
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOA VONTADE TV
 http://168.205.87.198:8555/live/1431/123456/21.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5265
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK JR HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICK JR HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45295
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PORTAL
 http://168.205.87.198:8555/live/michele/123456/82.ts
@@ -48,20 +46,12 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5049
 http://168.205.87.198:8555/live/1431/123456/183.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",QUEENS UNITED TV
 http://168.205.87.198:8555/live/1431/123456/199.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV Corrientes,AR | 5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND PR HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453190
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5229
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE GENESIS
 http://168.205.87.198:8555/live/1431/123456/98.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
-https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",A&amp;E
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061382
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT RS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1002415
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX HD
@@ -70,8 +60,6 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5073
 http://168.205.87.198:8555/live/1221/123456/131.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="Undefined",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-7WMCAEPB0pc/YUODp6R9UhI/AAAAAAAAANI/BYubtojWstcxkoMyYvFcb1aogrQ-poEswCLcBGAsYHQ/s150/My%2BPost%2B%252855%2529.png" group-title="Undefined",LTO TelevisiÃ³n [Not 24/7]
-https://ltocatamarca.github.io/ltotv.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",TNT Sports 03
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014603
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
@@ -88,23 +76,21 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5098
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/372984
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN DRAMA
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044169
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Novo Tempo,Novo Tempo (Backup)
 http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Telemax
+#EXTINF:0 tvg-logo="" group-title="Undefined",Telemax
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNT
 http://168.205.87.198:8555/live/michele/123456/150.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
+#EXTINF:0 tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Undefined",24/7 Canal de Noticias,CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM BACK UP
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM BACK UP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061398
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV JUSTIÃ‡A
 http://168.205.87.198:8555/live/1221/123456/138.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL RURAL
 http://168.205.87.198:8555/live/michele/123456/166.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Undefined",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV APARECIDA
 http://168.205.87.198:8555/live/1431/123456/131.ts
@@ -114,27 +100,27 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5051
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014579
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CLUBE PRIVE 3
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1010199
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",VOLVER
+#EXTINF:0 tvg-logo="" group-title="Undefined",VOLVER
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061380
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULT
 http://168.205.87.198:8555/live/1431/123456/30.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STAR CHANNEL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5067
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal 4 (San Juan)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal 4 (San Juan)
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Undefined",5RTV Santa Fe
+#EXTINF:0 tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Undefined",5RTV Santa Fe
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IUDRW8l.png" group-title="General",SBT TV Jornal Recife (720p) [Not 24/7]
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS 3 ENGLISH SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS 3 ENGLISH SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10035
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TCM
+#EXTINF:0 tvg-logo="" group-title="Undefined",TCM
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061365
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATGEO WILD HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923029
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MASTER TV
 http://168.205.87.198:8555/live/1431/123456/74.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS ENG 3 4K
+#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS ENG 3 4K
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044185
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MG HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5179
@@ -142,7 +128,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5179
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923563
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Conmebol TV - 03 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014585
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Canal 3 Las Heras (720p)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-Bo1d38m3t7E/X1TI1TCW_HI/AAAAAAAA5TQ/m4ZStqzslPcCdG1y7R1XQ4arveLLpxHjgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Canal 3 Las Heras (720p)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY 3  FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923653
@@ -150,14 +136,10 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923653
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/30621
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV APARECIDA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374358
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",RTP
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058540
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RPC FOZ DO IGUAÃ‡U HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71736
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Telecreativa
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Telecreativa
 https://panel.dattalive.com/8012/8012/playlist.m3u8
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",ATB
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058537
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5203
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",POLISHOP
@@ -174,7 +156,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923175
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159601
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5240
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STAR CHANNEL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5817
@@ -188,35 +170,35 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465346
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5506
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND CAMPINAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453182
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BABY TV
+#EXTINF:0 tvg-logo="" group-title="Undefined",BABY TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061388
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV CAMPINAS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5423
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",RURAL
+#EXTINF:0 tvg-logo="" group-title="Undefined",RURAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061358
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",La Voz de Tucuman (480p)
+#EXTINF:0 tvg-logo="" group-title="Undefined",La Voz de Tucuman (480p)
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",DISNEY XD
+#EXTINF:0 tvg-logo="" group-title="Desenho",DISNEY XD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061320
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&amp;E SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5394
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL DO BOI
 http://168.205.87.198:8555/live/1221/123456/167.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png" group-title="Undefined",Litus TV
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-q7-kJQtvOso/X1TK-HnauAI/AAAAAAAA5UI/AdF8_AvliswDIISemCqMoVi_e94C4ZrjwCK8BGAsYHg/s0/2020-09-06.png" group-title="Undefined",Litus TV
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RBS TV CAXIAS DO SUL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71723
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND SP HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453186
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TELESUR
+#EXTINF:0 tvg-logo="" group-title="Undefined",TELESUR
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061369
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/128489
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Undefined",Telediez
 https://videohd.live:19360/8020/8020.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",METRO
+#EXTINF:0 tvg-logo="" group-title="Undefined",METRO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061349
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",NAT GEO
+#EXTINF:0 tvg-logo="" group-title="Undefined",NAT GEO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061352
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV! SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5487
@@ -224,13 +206,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5487
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5065
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINEMAX HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5048
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SD
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10015
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STAR + 3 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923178
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
+#EXTINF:0 tvg-logo="" group-title="News",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5234
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Champions League 04
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014592
@@ -238,21 +220,19 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014592
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380743
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A&amp;E FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5189
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",EL GARAGE TV
+#EXTINF:0 tvg-logo="" group-title="Undefined",EL GARAGE TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061390
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE FAMILIA
 http://168.205.87.198:8555/live/michele/123456/151.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5274
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
+#EXTINF:0 tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373238
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Bolivision HD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058534
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",TYC SPORTS INTERNACIONAL BACK UP
+#EXTINF:0 tvg-logo="" group-title="Sport",TYC SPORTS INTERNACIONAL BACK UP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061397
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS GLOBAL HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS GLOBAL HD â—‰
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10090
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/128493
@@ -262,7 +242,7 @@ http://168.205.87.198:8555/live/1221/123456/74.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374296
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE MINAS
 http://168.205.87.198:8555/live/1221/123456/101.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5450
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA CAMERA 7
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038267
@@ -270,37 +250,37 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038267
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="Sport",ESPN Extra HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159600
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AMERICA TV
+#EXTINF:0 tvg-logo="" group-title="Undefined",AMERICA TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061384
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV BRASIL
 http://168.205.87.198:8555/live/1221/123456/134.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BOOMERANG
+#EXTINF:0 tvg-logo="" group-title="Undefined",BOOMERANG
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061303
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AR:TRT Arabic,TRT Arabic
+#EXTINF:0 tvg-logo="" group-title="Undefined",AR:TRT Arabic,TRT Arabic
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
 http://168.205.87.198:8555/live/michele/123456/19.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/2pqxAuS.png" group-title="Undefined",Canal 7 Salta (720p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/2pqxAuS.png" group-title="Undefined",Canal 7 Salta (720p)
 https://panel.dattalive.com/8074/8074/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JOVEM PAN NEWS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465363
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL BRASIL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68534
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TN
+#EXTINF:0 tvg-logo="" group-title="Undefined",TN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061370
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",ARGENTINISIMA
+#EXTINF:0 tvg-logo="" group-title="Undefined",ARGENTINISIMA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061386
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD GO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/70996
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/jaaGxnd.png" group-title="Local",TV Cidade de PetrÃ³polis (1080p) [Not 24/7]
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",DISNEY CHANNEL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5059
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SERGIPE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/362664
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Undefined",Ciudad TV Chaco
+#EXTINF:0 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Undefined",Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
+#EXTINF:0 tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061362
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV CÃ‚MARA
 http://168.205.87.198:8555/live/1221/123456/136.ts
@@ -310,11 +290,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5441
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923174
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE TOUCH HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5121
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",FOX NEWS
+#EXTINF:0 tvg-logo="" group-title="Undefined",FOX NEWS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061330
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",POV HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/368841
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10013
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO PORTO ALEGRE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767641
@@ -324,11 +304,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014599
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923172
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5270
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",TYC SPORTS LOCAL
+#EXTINF:0 tvg-logo="" group-title="Sport",TYC SPORTS LOCAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061294
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5237
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",FILM &amp; ARTS
+#EXTINF:0 tvg-logo="" group-title="Undefined",FILM &amp; ARTS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061329
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE SUPER
 http://168.205.87.198:8555/live/1221/123456/163.ts
@@ -342,9 +322,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373368
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923651
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD ยน
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1011613
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SD
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10012
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",DISNEY CHANNEL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5211
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HITTS
 http://168.205.87.198:8555/live/1431/123456/72.ts
@@ -372,33 +352,33 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/354854
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465905
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5460
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",GLITZ
+#EXTINF:0 tvg-logo="" group-title="Undefined",GLITZ
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061333
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Undefined",Canal 6 (Mar de Plata)
+#EXTINF:0 tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Undefined",Canal 6 (Mar de Plata)
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17925
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
+#EXTINF:0 tvg-logo="" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",NATIONAL GEOGRAPHIC SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104679
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND ES HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453194
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CIUDAD MAGAZINE
+#EXTINF:0 tvg-logo="" group-title="Undefined",CIUDAD MAGAZINE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061312
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5425
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK JR FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICK JR FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5249
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Undefined",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record RS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/35165
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5242
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL 13
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL 13
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061389
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOONITO HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOONITO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17924
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY 4 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923654
@@ -408,15 +388,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923395
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465362
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 6 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5257
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN MOVIES 1 PREMIERE
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN MOVIES 1 PREMIERE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044174
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png" group-title="Undefined",Catamarca TV [Not 24/7]
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png" group-title="Undefined",Catamarca TV [Not 24/7]
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
+#EXTINF:0 tvg-logo="" group-title="News",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923057
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Undefined",CPEtv
+#EXTINF:0 tvg-logo="https://i.imgur.com/75UgF.png" group-title="Undefined",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RATIMBUM
 http://168.205.87.198:8555/live/1221/123456/84.ts
@@ -432,7 +412,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014583
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374381
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT SERIES HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5124
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10014
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE VIDA
 http://168.205.87.198:8555/live/michele/123456/103.ts
@@ -440,7 +420,7 @@ http://168.205.87.198:8555/live/michele/123456/103.ts
 http://168.205.87.198:8555/live/1431/123456/106.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://cvivo.com.ar/wp-content/uploads/2021/11/VIVO-CIRCULO.png" group-title="Undefined",Cadena VIVO (720p)
+#EXTINF:0 tvg-logo="https://cvivo.com.ar/wp-content/uploads/2021/11/VIVO-CIRCULO.png" group-title="Undefined",Cadena VIVO (720p)
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5403
@@ -460,7 +440,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5509
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376146
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RBS PELOTAS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380569
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TBS VERY FUNNY
+#EXTINF:0 tvg-logo="" group-title="Undefined",TBS VERY FUNNY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061364
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923901
@@ -468,11 +448,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923901
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/29359
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SECULO 21
 http://168.205.87.198:8555/live/michele/123456/106.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",UNIVERSAL
+#EXTINF:0 tvg-logo="" group-title="Undefined",UNIVERSAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061378
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",QUIERO MUSICA
+#EXTINF:0 tvg-logo="" group-title="Undefined",QUIERO MUSICA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061302
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS NEWS
+#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS NEWS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044187
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV EVANGELIZAR
 http://168.205.87.198:8555/live/1431/123456/189.ts
@@ -494,7 +474,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5267
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68542
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923506
-#EXTINF:0 tvg-country="AR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwHrVBVcHJZK4iDbMiZlzq7-LmOuj-O2yGRyI0=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Chilecito TV
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwHrVBVcHJZK4iDbMiZlzq7-LmOuj-O2yGRyI0=s400-c-k-c0x00ffffff-no-rj" group-title="Undefined",Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 14 CAM 01
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11046
@@ -504,7 +484,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159609
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5352
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE BRASIL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374283
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+#EXTINF:0 tvg-logo="" group-title="Desenho",CARTOON NETWORK
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061299
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV CÃ‚MARA
 http://168.205.87.198:8555/live/1431/123456/136.ts
@@ -512,11 +492,11 @@ http://168.205.87.198:8555/live/1431/123456/136.ts
 http://168.205.87.198:8555/live/michele/123456/153.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFETIME SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5453
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOON NETWORK HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5047
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5500
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",H2
+#EXTINF:0 tvg-logo="" group-title="Undefined",H2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061336
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT SP FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68532
@@ -526,7 +506,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923176
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766216
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RIT
 http://168.205.87.198:8555/live/1431/123456/168.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN JUNIOR
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN JUNIOR
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044173
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOOB HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5076
@@ -538,7 +518,7 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5225
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND CAMPINAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923302
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AMERICA 24
+#EXTINF:0 tvg-logo="" group-title="Undefined",AMERICA 24
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061385
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5114
@@ -546,7 +526,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5114
 http://168.205.87.198:8555/live/michele/123456/165.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/56159
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN MOVIES 3 DRAMA
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN MOVIES 3 DRAMA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044176
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",E! FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923888
@@ -556,9 +536,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5241
 http://168.205.87.198:8555/live/1431/123456/67.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 http://168.205.87.198:8555/live/1431/123456/10.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
+#EXTINF:0 tvg-logo="" group-title="News",Canal 26
 https://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AXN
+#EXTINF:0 tvg-logo="" group-title="Undefined",AXN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061387
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5436
@@ -570,63 +550,57 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/117071
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45345
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO XTREME HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5088
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS 5
+#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 5
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044180
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Champions League 03
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014591
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5115
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Rec Online
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058549
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5426
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA CAMERA 4
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038264
-#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1349114822844145665/g1zq6-8N_400x400.png" group-title="Undefined",Canal 6 (Posadas)
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1349114822844145665/g1zq6-8N_400x400.png" group-title="Undefined",Canal 6 (Posadas)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HBO 2
+#EXTINF:0 tvg-logo="" group-title="Undefined",HBO 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061337
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias
+#EXTINF:0 tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SOROCABA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380741
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5207
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Arabic Live,AR:AL Jazeera Arabic Live
+#EXTINF:0 tvg-logo="" group-title="Undefined",AL Jazeera Arabic Live,AR:AL Jazeera Arabic Live
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/1431/123456/160.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5191
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMBATE SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5411
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",NICKELODEON JR
+#EXTINF:0 tvg-logo="" group-title="Desenho",NICKELODEON JR
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061354
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal XFN
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",Canal XFN
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BOAS NOVAS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374354
-#EXTINF:0 tvg-country="AR" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="Undefined",Canal 26
+#EXTINF:0 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="Undefined",Canal 26
 http://200.115.193.177/live/26hd-180/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM HD
 http://168.205.87.198:8555/live/1431/123456/187.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 7 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5105
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",Gigavision
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058548
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN BRASIL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5158
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",NATIONAL GEOGRAPHIC FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104677
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT SP HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68531
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SESC TV
 http://168.205.87.198:8555/live/1431/123456/107.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY CHANNEL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5084
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO CHAPECO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380570
@@ -634,31 +608,29 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380570
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5468
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULTURA
 http://168.205.87.198:8555/live/1431/123456/32.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 6 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 6 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10098
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 http://168.205.87.198:8555/live/1431/123456/7.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CLASSIC HITS
 http://168.205.87.198:8555/live/1431/123456/27.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Undefined",Telenord
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Undefined",Telenord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NOVO TEMPO
 http://168.205.87.198:8555/live/1221/123456/149.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",SBT SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923497
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BLUMENAL SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO BLUMENAL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767643
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NINFENTAS GULOSAS 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1010102
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MINAS
 http://168.205.87.198:8555/live/michele/123456/96.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[4K] BEIN SPORTS NBA HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[4K] BEIN SPORTS NBA HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10041
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL YEEAAH
 http://168.205.87.198:8555/live/1431/123456/193.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE VIDA
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",REDE VIDA
 http://168.205.87.198:8555/live/1221/123456/103.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",DIRECTV SPORTS 2
+#EXTINF:0 tvg-logo="" group-title="Sport",DIRECTV SPORTS 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061394
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES FHD ยน
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1011612
@@ -666,53 +638,53 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1011612
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1011611
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="Undefined",AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MAS CHIC
+#EXTINF:0 tvg-logo="" group-title="Undefined",MAS CHIC
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061345
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923437
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV CAXIAS DO SUL FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO TV CAXIAS DO SUL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/364881
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV ANHAGUERA HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO TV ANHAGUERA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376142
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE MINAS
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",REDE MINAS
 http://168.205.87.198:8555/live/1431/123456/101.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",ANIMAL PLANET SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5396
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Undefined",Chacra TV (480p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Undefined",Chacra TV (480p)
 https://s8.stweb.tv/chacra/live/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV MORENA HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO TV MORENA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376156
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",DISCOVERY KIDS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5416
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP  FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO SP  FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5365
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",HBO 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5449
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="Undefined",GenTV (720p) [Not 24/7]
+#EXTINF:0 tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="Undefined",GenTV (720p) [Not 24/7]
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 2
+#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044189
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5228
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5092
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",REDE TV
 http://168.205.87.198:8555/live/1221/123456/102.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Undefined",Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",All Sports
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014595
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355046
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",DISNEY
+#EXTINF:0 tvg-logo="" group-title="Desenho",DISNEY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061318
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV MORENA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/466236
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/bEoN2tt.png" group-title="Movies",TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
 http://168.205.87.198:8555/live/1431/123456/62.ts
@@ -722,23 +694,23 @@ http://168.205.87.198:8555/live/1431/123456/194.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5458
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/477014
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TELEFE
+#EXTINF:0 tvg-logo="" group-title="Undefined",TELEFE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061366
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOONITO SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOONITO SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5404
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RJ SDÂ¹
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO RJ SDÂ¹
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1082265
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Conmebol TV - 02 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014580
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO GAZETA ALAGOAS HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO GAZETA ALAGOAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465157
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA 14 CAM 08
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11053
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",EstÃ¡dio TNT Sports HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014598
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",FX
+#EXTINF:0 tvg-logo="" group-title="Undefined",FX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061331
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
@@ -746,53 +718,53 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453189
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",LIFE CHANNEL BRASIL
 http://168.205.87.198:8555/live/1431/123456/192.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",SBT ALTEROSA
 http://168.205.87.198:8555/live/1221/123456/104.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5123
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO CENTRO AMERICA FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO CENTRO AMERICA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380556
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5256
-#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 (Salta)
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 (Salta)
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BLUMENAU FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO BLUMENAU FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380572
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CINEAR
+#EXTINF:0 tvg-logo="" group-title="Undefined",CINEAR
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061309
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",VH1
+#EXTINF:0 tvg-logo="" group-title="Undefined",VH1
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061379
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CURTA! HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11043
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",SBT ALTEROSA
 http://168.205.87.198:8555/live/michele/123456/104.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV TEM SOROCABA SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO TV TEM SOROCABA SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/362690
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SONY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5046
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGA
 http://168.205.87.198:8555/live/michele/123456/75.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 1 FRENCH HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 1 FRENCH HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10087
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wulssDz.png" group-title="Undefined",Milenium TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/wulssDz.png" group-title="Undefined",Milenium TV
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",RECORD NEWS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17922
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN TRAVEL
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN TRAVEL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044198
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",DISCOVERY SCIENCE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5055
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BELO HORIZONTE HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO BELO HORIZONTE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1002203
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV MIRANTE FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO TV MIRANTE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71747
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO INTER DOS VALES HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO INTER DOS VALES HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376151
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/michele/123456/148.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="Sport",Sportv 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",GARAGE
+#EXTINF:0 tvg-logo="" group-title="Undefined",GARAGE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061332
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
@@ -800,13 +772,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGA
 http://168.205.87.198:8555/live/1221/123456/75.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BAHIA FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO BAHIA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68520
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HBO
+#EXTINF:0 tvg-logo="" group-title="Undefined",HBO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061339
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Aire de Santa Fe
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY THEATER HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",DISCOVERY THEATER HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5056
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL RURAL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373935
@@ -816,33 +788,33 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465909
 http://168.205.87.198:8555/live/michele/123456/136.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5045
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO JRP  FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Aberta",GLOBO JRP  FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380706
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11077
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MINAS
 http://168.205.87.198:8555/live/1221/123456/96.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png" group-title="Undefined",Canal 907 FM
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png" group-title="Undefined",Canal 907 FM
 https://panel.dattalive.com/canal907/canal907/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL 21
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL 21
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061306
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",RAI
+#EXTINF:0 tvg-logo="" group-title="Undefined",RAI
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061357
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923017
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BAHIA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68521
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO ES HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/776526
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN MOVIES 2 ACTION
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN MOVIES 2 ACTION
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044175
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICKELODEON SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICKELODEON SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5467
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",DISCOVERY KIDS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5206
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 http://168.205.87.198:8555/live/1221/123456/7.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL DE LA CIUDAD
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL DE LA CIUDAD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061308
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",EXTREMO ORIENTAL TV
 http://168.205.87.198:8555/live/1431/123456/196.ts
@@ -850,15 +822,15 @@ http://168.205.87.198:8555/live/1431/123456/196.ts
 http://168.205.87.198:8555/live/1221/123456/105.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5192
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (San Juan)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (San Juan)
 https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN BRASIL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5540
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 2 FRENCH HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 2 FRENCH HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10088
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CNN EN ESPANIOL
+#EXTINF:0 tvg-logo="" group-title="Undefined",CNN EN ESPANIOL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061313
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RPC TV CURITIBA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/49429
@@ -868,7 +840,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923561
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5475
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD Â²
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1022523
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/HCTvg6j.png" group-title="Undefined",Canal Provincial (360p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/HCTvg6j.png" group-title="Undefined",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5044
@@ -882,13 +854,13 @@ http://168.205.87.198:8555/live/michele/123456/160.ts
 http://168.205.87.198:8555/live/michele/123456/30.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PIPOCA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5119
-#EXTINF:0 tvg-country="AR" tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Undefined",Canal 22
+#EXTINF:0 tvg-logo="https://canal22web.com/wp-content/uploads/2020/09/80.jpg" group-title="Undefined",Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923652
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Conmebol TV - 02 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014581
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 4 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 4 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10096
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5082
@@ -896,13 +868,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5082
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5421
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO  NSC TV JOINVILLE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71720
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",FOX
+#EXTINF:0 tvg-logo="" group-title="Undefined",FOX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061408
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",C5N
+#EXTINF:0 tvg-logo="" group-title="Undefined",C5N
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061304
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Modo Viagem SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766445
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN 2
+#EXTINF:0 tvg-logo="" group-title="Sport",ESPN 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061324
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Modo Viagem FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
@@ -910,9 +882,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/475671
 http://168.205.87.198:8555/live/1431/123456/99.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD TV SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923491
-#EXTINF:0 tvg-country="AR" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s500-c-k-c0x00ffffff-no-rj" group-title="Undefined",Urbana TeVe
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s500-c-k-c0x00ffffff-no-rj" group-title="Undefined",Urbana TeVe
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",SPACE
+#EXTINF:0 tvg-logo="" group-title="Undefined",SPACE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061361
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5109
@@ -922,9 +894,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/364887
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="Undefined",RetrÃ´ TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/b53ea7912cc518bf5baff39f6edc6c0b.png" group-title="Undefined",Antena 91
+#EXTINF:0 tvg-logo="https://i2.paste.pics/b53ea7912cc518bf5baff39f6edc6c0b.png" group-title="Undefined",Antena 91
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SDÂ²
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10018
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5401
@@ -934,39 +906,39 @@ http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373370
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MAX 1 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923173
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS 1 BACK UP
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS 1 BACK UP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061400
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NHK FHD (JAPONES)
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923383
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORT 2
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORT 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061298
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Undefined",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HBO SIGNATURE
+#EXTINF:0 tvg-logo="" group-title="Undefined",HBO SIGNATURE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061340
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355045
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5251
-#EXTINF:0 tvg-country="AR" tvg-logo="https://canal50.tv/public/images/logos/C50_Blanco.png" group-title="Undefined",Canal 50 (Morteros)
+#EXTINF:0 tvg-logo="https://canal50.tv/public/images/logos/C50_Blanco.png" group-title="Undefined",Canal 50 (Morteros)
 https://coopmorteros.online/canal50/vivo.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MUSIC TOP
+#EXTINF:0 tvg-logo="" group-title="Undefined",MUSIC TOP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061301
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music TOP
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (Mar del Plata)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (Mar del Plata)
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CENTRAL TV
 http://168.205.87.198:8555/live/1431/123456/177.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5250
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Undefined",TeleMix
+#EXTINF:0 tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Undefined",TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="Undefined",TV Master
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MAX 4 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355730
-#EXTINF:0 tvg-country="AR" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Undefined",Canal 26
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Undefined",Canal 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE ACTION FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5268
@@ -976,17 +948,17 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5099
 http://168.205.87.198:8555/live/1431/123456/149.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record BA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/389104
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",[HD] BEIN PREMIUM 3 HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Undefined",[HD] BEIN PREMIUM 3 HD â—‰
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10101
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STAR + 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923177
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS 2 BACK UP
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS 2 BACK UP
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061399
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BIS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5195
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV BRASIL
 http://168.205.87.198:8555/live/1431/123456/134.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID - INVESTIGATION DISCOVERY HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",ID - INVESTIGATION DISCOVERY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5085
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD CAMPINAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373936
@@ -994,15 +966,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373936
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5091
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 3 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465906
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",NATIONAL GEOGRAPHIC HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/104678
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MAX 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355728
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 6 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 6 SDÂ²
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10022
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",PX SPORTS
+#EXTINF:0 tvg-logo="" group-title="Sport",PX SPORTS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061407
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 RÃ­o Cuarto
+#EXTINF:0 tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 RÃ­o Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV RIO SUL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/364878
@@ -1012,9 +984,7 @@ http://168.205.87.198:8555/live/1431/123456/167.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766444
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
 http://168.205.87.198:8555/live/1221/123456/62.ts
-#EXTINF:0 tvg-country="BO" tvg-logo="" group-title="Undefined",BOLIVIA TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1058536
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 2 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10012
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV RIBEIRAO PRETO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374282
@@ -1034,13 +1004,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014590
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767649
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",E!
+#EXTINF:0 tvg-logo="" group-title="Undefined",E!
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061322
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5429
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/1221/123456/160.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MAX
+#EXTINF:0 tvg-logo="" group-title="Undefined",MAX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061346
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MASTER TV
 http://168.205.87.198:8555/live/michele/123456/74.ts
@@ -1058,7 +1028,7 @@ http://168.205.87.198:8555/live/michele/123456/135.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038263
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5202
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HBO FAMILY
+#EXTINF:0 tvg-logo="" group-title="Undefined",HBO FAMILY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061338
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Futura HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/477013
@@ -1066,7 +1036,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/477013
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/57255
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record BA - ITAPOAN HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/70990
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061296
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923507
@@ -1076,15 +1046,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5439
 http://168.205.87.198:8555/live/1431/123456/82.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SCH
 http://168.205.87.198:8555/live/michele/123456/105.ts
-#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Undefined",Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Undefined",Canal Santa MarÃ­a (360p)
+#EXTINF:0 tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Undefined",Canal Santa MarÃ­a (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO + FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373934
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SD
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10011
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Net TV (720p) [Not 24/7]
+#EXTINF:0 tvg-logo="" group-title="Undefined",Net TV (720p) [Not 24/7]
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE GENESIS
 http://168.205.87.198:8555/live/1221/123456/98.ts
@@ -1104,7 +1072,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45249
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5086
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RBS TV PORTO ALEGRE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5310
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TNT
+#EXTINF:0 tvg-logo="" group-title="Undefined",TNT
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061371
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO FOZ IGUAÃ‡U FHD (
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/362659
@@ -1146,21 +1114,21 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374284
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/442153
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
-#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1181691381661814789/OG0CbnVX_400x400.jpg" group-title="Music",Beats Radio
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1181691381661814789/OG0CbnVX_400x400.jpg" group-title="Music",Beats Radio
 https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
 http://168.205.87.198:8555/live/1431/123456/143.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Undefined",5RTV Santa Fe
+#EXTINF:0 tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Undefined",5RTV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",A24 FHD
+#EXTINF:0 tvg-logo="" group-title="Undefined",A24 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061391
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923458
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Kids",KIDS
 http://168.205.87.198:8555/live/michele/123456/143.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CINE SKY 5 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923655
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/62ed0ecfcfd69d8fb9ecf94c2e81e85b.png" group-title="Undefined",Canal 4 Eldorado (720p)
+#EXTINF:0 tvg-logo="https://i2.paste.pics/62ed0ecfcfd69d8fb9ecf94c2e81e85b.png" group-title="Undefined",Canal 4 Eldorado (720p)
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV TV SOROCABA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5525
@@ -1174,7 +1142,7 @@ http://168.205.87.198:8555/live/1221/123456/27.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5510
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV ANHAGUERA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376141
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICKELODEON FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICKELODEON FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5248
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TDEDNLK.png" group-title="General",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
@@ -1182,15 +1150,15 @@ https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 http://168.205.87.198:8555/live/1221/123456/147.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5444
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SDÂ²
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10020
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV BRASIL 2
 http://168.205.87.198:8555/live/1431/123456/135.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO CANAL
 http://168.205.87.198:8555/live/michele/123456/10.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1136452628337090565/Q-4TRuKs_400x400.jpg" group-title="Undefined",Canal 13 San Luis
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1136452628337090565/Q-4TRuKs_400x400.jpg" group-title="Undefined",Canal 13 San Luis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN
+#EXTINF:0 tvg-logo="" group-title="Sport",ESPN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061326
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/354855
@@ -1200,25 +1168,25 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923907
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923056
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Telemax
+#EXTINF:0 tvg-logo="" group-title="Undefined",Telemax
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923541
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 (Jujuy)
+#EXTINF:0 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png" group-title="Undefined",UNAM Transmedia
+#EXTINF:0 tvg-logo="https://i2.paste.pics/8c4977628c2855095b6b9bff9a9f2a1d.png" group-title="Undefined",UNAM Transmedia
 http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ARTE 1 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17923
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL 26
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL 26
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061307
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS ENG 2 4K
+#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS ENG 2 4K
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044184
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV CENTRAL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767654
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Local",Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",EUROPA
+#EXTINF:0 tvg-logo="" group-title="Undefined",EUROPA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061328
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE BRASIL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923493
@@ -1228,7 +1196,7 @@ http://168.205.87.198:8555/live/michele/123456/27.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5239
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5473
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MTV
+#EXTINF:0 tvg-logo="" group-title="Undefined",MTV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061350
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 6 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5477
@@ -1248,25 +1216,25 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/49321
 http://168.205.87.198:8555/live/michele/123456/98.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD RJ HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5320
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (Santa Clara del Mar)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Canal 79 (Santa Clara del Mar)
 https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png" group-title="Undefined",TV Solidaria
+#EXTINF:0 tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png" group-title="Undefined",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TELEMUNDO
+#EXTINF:0 tvg-logo="" group-title="Undefined",TELEMUNDO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061368
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Culture",Mirador
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Culture",Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA CAMERA 6
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038266
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AWTV
 http://168.205.87.198:8555/live/1431/123456/181.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="News",Canal 26
+#EXTINF:0 tvg-logo="" group-title="News",Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/06/LOGO-PERMANENTE-FIJO--e1503976768253.png" group-title="Undefined",Canal 6 (Moreno)
+#EXTINF:0 tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/06/LOGO-PERMANENTE-FIJO--e1503976768253.png" group-title="Undefined",Canal 6 (Moreno)
 https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANÇÃO NOVA
 http://168.205.87.198:8555/live/1221/123456/25.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061297
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",POLISHOP
 http://168.205.87.198:8555/live/1431/123456/153.ts
@@ -1286,13 +1254,13 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923558
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BRSUPER TV
 http://168.205.87.198:8555/live/1431/123456/147.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CNN
+#EXTINF:0 tvg-logo="" group-title="Undefined",CNN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061314
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Undefined",AR | Fenix TV,Fenix TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Undefined",AR | Fenix TV,Fenix TV
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL DE LA MUSICA
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL DE LA MUSICA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061405
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SD
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10013
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Music",MUSIC BOX BRAZIL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45325
@@ -1302,19 +1270,19 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014589
 http://168.205.87.198:8555/live/michele/123456/67.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373197
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 2 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 2 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10094
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SESC TV
 http://168.205.87.198:8555/live/michele/123456/107.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Music",Am1020 (360p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/nEVKVZK.png" group-title="Music",Am1020 (360p)
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",PARAMOUNT
+#EXTINF:0 tvg-logo="" group-title="Undefined",PARAMOUNT
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061356
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5289
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record DF - HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/766215
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 2 FRENCH HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 2 FRENCH HD â—‰
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10113
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PREMIUM FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5272
@@ -1332,15 +1300,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5443
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38424
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923476
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN BARAEM
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN BARAEM
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044168
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV MUNDIAL SDÂ²
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374360
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",GLOBO NEWS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45264
-#EXTINF:0 tvg-country="AR" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png" group-title="Undefined",Canal 26
+#EXTINF:0 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png" group-title="Undefined",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",SONY
+#EXTINF:0 tvg-logo="" group-title="Undefined",SONY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061360
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SCH
 http://168.205.87.198:8555/live/1431/123456/105.ts
@@ -1350,21 +1318,21 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5484
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17912
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES SD Â²
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1022524
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",DEPORTV FHD
+#EXTINF:0 tvg-logo="" group-title="Undefined",DEPORTV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061317
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND RJ FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453180
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN MOVIES 4 FAMILY
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN MOVIES 4 FAMILY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044177
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music;Undefined",Music Top,MUSICA:Music Top Argentina
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music;Undefined",Music Top,MUSICA:Music Top Argentina
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465908
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 7 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5258
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="Undefined",Canal 5 (TucumÃ¡n) [Not 24/7]
+#EXTINF:0 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="Undefined",Canal 5 (TucumÃ¡n) [Not 24/7]
 https://videohd.live:19360/8090/8090.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 1 HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 1 HD â—‰
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10102
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FUTURA SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923443
@@ -1376,7 +1344,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/442155
 http://168.205.87.198:8555/live/michele/123456/163.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RBS TV CAXIAS DO SUL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71724
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
+#EXTINF:0 tvg-logo="" group-title="Undefined",Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE SUPER SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374356
@@ -1398,25 +1366,23 @@ http://168.205.87.198:8555/live/1431/123456/19.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/374110
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5446
-#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/YdiF5k6.png" group-title="Undefined",BO | TVU,TVU
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5160
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SDÂ²
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10021
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO MARINGA SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/776600
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
+#EXTINF:0 tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Music",Music Top
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO MUNDI HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5087
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",EL TRECE
+#EXTINF:0 tvg-logo="" group-title="Undefined",EL TRECE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061403
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Hobby",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
 http://168.205.87.198:8555/live/1221/123456/19.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HISTORY
+#EXTINF:0 tvg-logo="" group-title="DISCOVERY",HISTORY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061341
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="Undefined",Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -1434,7 +1400,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5414
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/38437
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STAR+ 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/442154
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOONITO FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOONITO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5196
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOOB FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5227
@@ -1443,9 +1409,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5227
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqHDwKPPOhzLmtb4TvwIZZQ/live
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5397
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-tv-rio-negro-ar.png" group-title="Undefined",Canal 10 Rio Negro
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-10-tv-rio-negro-ar.png" group-title="Undefined",Canal 10 Rio Negro
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="Undefined",Canal 21 TV
+#EXTINF:0 tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="Undefined",Canal 21 TV
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY H&amp;H FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5205
@@ -1453,11 +1419,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5205
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5071
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE TOUCH FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5273
-#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/eTDc0wd.jpg" group-title="Undefined",RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANÇÃO NOVA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5384
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CRONICA
+#EXTINF:0 tvg-logo="" group-title="Undefined",CRONICA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061316
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY WORLD FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5210
@@ -1465,9 +1429,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5210
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5481
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Sport",ESPN 2 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159598
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CINEMAX
+#EXTINF:0 tvg-logo="" group-title="Undefined",CINEMAX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061311
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TELEVISION PUBLICA
+#EXTINF:0 tvg-logo="" group-title="Undefined",TELEVISION PUBLICA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061401
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV APARECIDA
 http://168.205.87.198:8555/live/michele/123456/131.ts
@@ -1475,9 +1439,9 @@ http://168.205.87.198:8555/live/michele/123456/131.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5104
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11070
-#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Undefined",El Nueve (1080p)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Undefined",El Nueve (1080p)
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",DISNEY CHANNEL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5418
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV DIARIO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465450
@@ -1495,7 +1459,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/776527
 http://168.205.87.198:8555/live/michele/123456/16.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5412
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV (Corrientes) (480p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV (Corrientes) (480p)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV SUL DE MINAS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376148
@@ -1505,7 +1469,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5511
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5090
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/1431/123456/148.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="Undefined",Canal 4 Esquel (720p)
+#EXTINF:0 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="Undefined",Canal 4 Esquel (720p)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NOVO TEMPO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45255
@@ -1513,19 +1477,19 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45255
 http://168.205.87.198:8555/live/michele/123456/72.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO PELOTAS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/466235
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",DIRECTV SPORTS
+#EXTINF:0 tvg-logo="" group-title="Sport",DIRECTV SPORTS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061395
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5261
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE ACTION HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5116
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",BEIN GOURMET
+#EXTINF:0 tvg-logo="" group-title="Undefined",BEIN GOURMET
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044172
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GAZETA
 http://168.205.87.198:8555/live/1221/123456/69.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA CAMERA 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038262
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 4 SD
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10014
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV ESCOLA
 http://168.205.87.198:8555/live/1221/123456/137.ts
@@ -1535,37 +1499,37 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 http://168.205.87.198:8555/live/1431/123456/138.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CULTURA
 http://168.205.87.198:8555/live/michele/123456/32.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923832
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CHESPIRITO
 http://168.205.87.198:8555/live/1431/123456/159.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="Undefined",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MTV HITS
+#EXTINF:0 tvg-logo="" group-title="Undefined",MTV HITS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061351
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO JUIZ DE FORA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/466233
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TELEMAX
+#EXTINF:0 tvg-logo="" group-title="Undefined",TELEMAX
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061367
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGA
 http://168.205.87.198:8555/live/1431/123456/75.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",HTV
+#EXTINF:0 tvg-logo="" group-title="Undefined",HTV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061342
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND BAHIA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/32955
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATGEO WILD SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923471
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5235
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923324
-#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sport",DirecTV Sports (480p)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sport",DirecTV Sports (480p)
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT ALTEROSA
 http://168.205.87.198:8555/live/1431/123456/104.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5101
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",DW
+#EXTINF:0 tvg-logo="" group-title="Undefined",DW
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061321
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO VERDE MARES SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376131
@@ -1577,23 +1541,23 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014596
 http://168.205.87.198:8555/live/michele/123456/139.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",INTERRACIAL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/368837
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Undefined",Canal 5 (Pico Truncado)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg" group-title="Undefined",Canal 5 (Pico Truncado)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="Undefined",BVC (720p)
+#EXTINF:0 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="Undefined",BVC (720p)
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL BRASIL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5197
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Undefined",Canal 4 Posadas (576p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Undefined",Canal 4 Posadas (576p)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5395
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",PAKA PAKA
+#EXTINF:0 tvg-logo="" group-title="Undefined",PAKA PAKA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061355
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV GAZETA SUL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376136
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PREMIUM SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5505
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Undefined",Tierramia TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Undefined",Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANÇÃO NOVA
 http://168.205.87.198:8555/live/michele/123456/25.ts
@@ -1601,9 +1565,7 @@ http://168.205.87.198:8555/live/michele/123456/25.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5077
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="Sport",Band Sports
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159597
-#EXTINF:0 tvg-country="BO" tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Undefined",Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TV5 MONDE
+#EXTINF:0 tvg-logo="" group-title="Undefined",TV5 MONDE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061376
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO TV MIRANTE HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5392
@@ -1611,17 +1573,17 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5392
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5053
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/320px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News (1080p)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MAX PRIME
+#EXTINF:0 tvg-logo="" group-title="Undefined",MAX PRIME
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061347
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOON NETWORK SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5409
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",GOURMET
+#EXTINF:0 tvg-logo="" group-title="Undefined",GOURMET
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061335
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TURBO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5057
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AGRO BRASIL
 http://168.205.87.198:8555/live/michele/123456/7.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10011
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMERICA LATINO
 http://168.205.87.198:8555/live/1431/123456/16.ts
@@ -1629,7 +1591,7 @@ http://168.205.87.198:8555/live/1431/123456/16.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5200
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Dd8KMvI.png" group-title="Entertainment",RetroMÃ¡gico
+#EXTINF:0 tvg-logo="https://i.imgur.com/Dd8KMvI.png" group-title="Entertainment",RetroMÃ¡gico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV COMPINAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/362702
@@ -1637,9 +1599,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/362702
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5118
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11069
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 6 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 6 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10016
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICKELODEON HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICKELODEON HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5096
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RATIMBUM
 http://168.205.87.198:8555/live/1431/123456/84.ts
@@ -1647,35 +1609,35 @@ http://168.205.87.198:8555/live/1431/123456/84.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014601
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FASHION TV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923898
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",LIFETIME
+#EXTINF:0 tvg-logo="" group-title="Undefined",LIFETIME
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061343
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO ASA BRANCA FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/117045
-#EXTINF:0 tvg-country="AR" tvg-logo="https://app.emediapp.com/image/logo-metro.png" group-title="Entertainment",Metro TV
+#EXTINF:0 tvg-logo="https://app.emediapp.com/image/logo-metro.png" group-title="Entertainment",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",SENADO
+#EXTINF:0 tvg-logo="" group-title="Undefined",SENADO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061359
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Undefined",Chacra TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Undefined",Chacra TV
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SHOPTIME
 http://168.205.87.198:8555/live/1221/123456/164.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373196
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="Undefined",El Palomar
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="Undefined",El Palomar
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BELO HORIZONTE FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1002204
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SD
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 5 SD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10015
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO ASA BRANCA  HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71741
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5050
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN+
+#EXTINF:0 tvg-logo="" group-title="Sport",ESPN+
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061327
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Undefined",Canal 2 (Sanagasta)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Undefined",Canal 2 (Sanagasta)
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TOONCAST
+#EXTINF:0 tvg-logo="" group-title="Undefined",TOONCAST
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061373
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5262
@@ -1693,15 +1655,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68529
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5415
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL SAÃšDE
 http://168.205.87.198:8555/live/1431/123456/165.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NICK JR SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",NICK JR SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5466
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 3 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 3 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10095
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RIT
 http://168.205.87.198:8555/live/1221/123456/168.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 26 (180p)
+#EXTINF:0 tvg-logo="" group-title="Undefined",Canal 26 (180p)
 http://live-edge02.telecentro.net.ar/live/c26.smil/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 1 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HEVC] BEIN SPORTS 1 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10077
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",RECORD NEWS
 http://168.205.87.198:8555/live/1221/123456/97.ts
@@ -1711,9 +1673,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5089
 http://168.205.87.198:8555/live/1431/123456/195.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MINAS
 http://168.205.87.198:8555/live/1431/123456/96.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="Undefined",Canal 17 Milenium Salta
+#EXTINF:0 tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="Undefined",Canal 17 Milenium Salta
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",TNT SPORTS
+#EXTINF:0 tvg-logo="" group-title="Sport",TNT SPORTS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11076
@@ -1721,19 +1683,19 @@ http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11076
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1022522
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV SUL DE MINAS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/376147
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 4 HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS 4 HD â—‰
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10105
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",TV PUBLICA
+#EXTINF:0 tvg-logo="" group-title="Undefined",TV PUBLICA
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061375
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE FAMILIA
 http://168.205.87.198:8555/live/1431/123456/151.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+#EXTINF:0 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",COMEDY
+#EXTINF:0 tvg-logo="" group-title="Undefined",COMEDY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061315
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5079
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
+#EXTINF:0 tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
 https://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV BRASIL 2
 http://168.205.87.198:8555/live/1221/123456/135.ts
@@ -1741,43 +1703,43 @@ http://168.205.87.198:8555/live/1221/123456/135.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767648
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",JP NEWS
 http://168.205.87.198:8555/live/1221/123456/161.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 5 Noticias (1080p) [Not 24/7]
+#EXTINF:0 tvg-logo="" group-title="Undefined",Canal 5 Noticias (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HGTV HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5052
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BELO HORIZONTE SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1002202
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",GOLF CHANNEL
+#EXTINF:0 tvg-logo="" group-title="Sport",GOLF CHANNEL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061334
-#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Undefined",Canal Rural
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Undefined",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",MUCH MUSIC
+#EXTINF:0 tvg-logo="" group-title="Undefined",MUCH MUSIC
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061300
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1024px-SporTV_logo_2016.png" group-title="Sport",Sportv HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607
-#EXTINF:0 tvg-country="AR" tvg-logo="https://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="Undefined",Cadena 103
+#EXTINF:0 tvg-logo="https://arcast.com.ar/cadena103/wp-content/uploads/2017/07/logofoot.png" group-title="Undefined",Cadena 103
 https://59d52c5a5ce5e.streamlock.net:4443/cadena103/cadena103/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Undefined",Celta TV
+#EXTINF:0 tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Undefined",Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",WARNER
+#EXTINF:0 tvg-logo="" group-title="Undefined",WARNER
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061381
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",SYFY
+#EXTINF:0 tvg-logo="" group-title="Undefined",SYFY
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061363
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS 3
+#EXTINF:0 tvg-logo="" group-title="Sport",FOX SPORTS 3
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061396
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/1221/123456/148.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL 4
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL 4
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061392
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",TNT Sports 02
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014602
 #EXTINF:0 tvg-country="BR" tvg-logo="https://img.radios.com.br/radio/xl/radio13488_1558098324.jpg" group-title="News",RÃ¡dio Jornal
 https://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Undefined",PowerHD
+#EXTINF:0 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="Undefined",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SYFY FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5266
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",NICKELODEON
+#EXTINF:0 tvg-logo="" group-title="Desenho",NICKELODEON
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061353
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275
@@ -1785,9 +1747,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5275
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45334
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV JUSTIÃ‡A
 http://168.205.87.198:8555/live/michele/123456/138.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY 2 HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY 2 HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5083
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[4K] BEIN SPORTS GLOBAL HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[4K] BEIN SPORTS GLOBAL HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10040
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE MINAS
 http://168.205.87.198:8555/live/michele/123456/101.ts
@@ -1795,9 +1757,9 @@ http://168.205.87.198:8555/live/michele/123456/101.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5204
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RATIMBUM
 http://168.205.87.198:8555/live/michele/123456/84.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CANAL 26 NOTICIAS
+#EXTINF:0 tvg-logo="" group-title="Undefined",CANAL 26 NOTICIAS
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061402
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 3 SDÂ²
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10019
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",A FAZENDA CAMERA 5
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038265
@@ -1805,7 +1767,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1038265
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5408
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FANDOM TV
 http://168.205.87.198:8555/live/1431/123456/197.ts
-#EXTINF:0 tvg-country="AR" tvg-logo="https://2.bp.blogspot.com/-zNV4o7lLCJU/XyNYdTLjD-I/AAAAAAAAJSI/jve9VrZq9H0ABBY1TRU09HBBAtPUbpZKwCK4BGAYYCw/s1600/logochicolargo2020%2Barreglada%2B.jpg" group-title="Music",Metropolitana FM
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-zNV4o7lLCJU/XyNYdTLjD-I/AAAAAAAAJSI/jve9VrZq9H0ABBY1TRU09HBBAtPUbpZKwCK4BGAYYCw/s1600/logochicolargo2020%2Barreglada%2B.jpg" group-title="Music",Metropolitana FM
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923015
@@ -1813,11 +1775,11 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923015
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68527
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNN BRASIL FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5285
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Desenho",CARTOON NETWORK FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5199
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",ANIMAL PLANET HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5042
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",AR | Net TV,Net TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",AR | Net TV,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FLUXUSLUST HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/368835
@@ -1831,7 +1793,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5041
 http://168.205.87.198:8555/live/michele/123456/161.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5503
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN PREMIUM
+#EXTINF:0 tvg-logo="" group-title="Sport",ESPN PREMIUM
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061409
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV! HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5108
@@ -1853,7 +1815,7 @@ http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923473
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV RA TIM BUM HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5127
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL SD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY CHANNEL SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5534
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CHESPIRITO
 http://168.205.87.198:8555/live/1221/123456/159.ts
@@ -1863,13 +1825,13 @@ http://168.205.87.198:8555/live/1431/123456/166.ts
 http://168.205.87.198:8555/live/1221/123456/32.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5447
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 5 HD
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD] BEIN SPORTS MAX 5 HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10097
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68519
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY HD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923018
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY FHD
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="DISCOVERY",HISTORY FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923807
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY WORLD HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5058
@@ -1881,13 +1843,13 @@ http://168.205.87.198:8555/live/1431/123456/150.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/776525
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO AMAZONICA RIO BRANCO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/373941
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Canal Coop
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png" group-title="Undefined",Canal Coop
 https://panel.dattalive.com/8138/8138/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Sport",ESPN 3 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159599
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68533
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png" group-title="Undefined",Canal 6 (Entre RÃ­os)
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png" group-title="Undefined",Canal 6 (Entre RÃ­os)
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11074
@@ -1895,7 +1857,7 @@ http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11074
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5201
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BABY TV SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923408
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",ENCUENTRO
+#EXTINF:0 tvg-logo="" group-title="Undefined",ENCUENTRO
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061323
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",RECORD NEWS FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/115704
@@ -1917,7 +1879,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5254
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/11044
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TV RA TIM BUM SD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5521
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[HD]  BEIN SPORTS 1 FRENCH HD â—‰
+#EXTINF:0 tvg-logo="" group-title="Sport",[HD]  BEIN SPORTS 1 FRENCH HD â—‰
 http://sonoiptv.xyz:8080/rMdKI9fAvn/BLW5p2r8yi/10112
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
@@ -1925,9 +1887,9 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453183
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV RIBEIRÃƒO PRETO HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/71698
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+#EXTINF:0 tvg-logo="" group-title="Desenho",DISNEY JUNIOR
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061319
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",EL NUEVE
+#EXTINF:0 tvg-logo="" group-title="Undefined",EL NUEVE
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061404
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FISH TV
 http://168.205.87.198:8555/live/michele/123456/62.ts
@@ -1935,31 +1897,31 @@ http://168.205.87.198:8555/live/michele/123456/62.ts
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5407
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO CHAPECO FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/767646
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AMC
+#EXTINF:0 tvg-logo="" group-title="Undefined",AMC
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061383
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV CÃ¢mara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW FHD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5244
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",VerTV (VTV) (720p) [Not 24/7]
+#EXTINF:0 tvg-logo="" group-title="Undefined",VerTV (VTV) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Undefined",Tierramia TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/FscV0as.png" group-title="Undefined",Tierramia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",ESPN 3
+#EXTINF:0 tvg-logo="" group-title="Sport",ESPN 3
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061325
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",LN
+#EXTINF:0 tvg-logo="" group-title="Undefined",LN
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061344
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CINECANAL
+#EXTINF:0 tvg-logo="" group-title="Undefined",CINECANAL
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061310
 #EXTINF:0 tvg-country="BR" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SDÂ²
+#EXTINF:0 tvg-logo="" group-title="Sport",[SD] BEIN SPORTS MAX 1 SDÂ²
 http://sonoiptv.xyz:8080/PZj8NhezW6/ynG75Wp8Cs/10017
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CNT
 http://168.205.87.198:8555/live/1221/123456/150.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/Tgov03S.jpg" group-title="Education",Rede Minas (1080p) [Not 24/7]
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",CL3 Cablevision
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Undefined",CL3 Cablevision
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CANAL DO BOI HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45307
@@ -1967,15 +1929,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/45307
 http://168.205.87.198:8555/live/1221/123456/82.ts
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="Local;Undefined",TV Digital Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",Net TV (720p)
+#EXTINF:0 tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",Net TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FASHION TV HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923100
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Mubashe,AR:AL Jazeera Mubashe
+#EXTINF:0 tvg-logo="" group-title="Undefined",AL Jazeera Mubashe,AR:AL Jazeera Mubashe
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="Undefined",TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP TV VANGUARDA HD
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/380742
-#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
+#EXTINF:0 tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Undefined",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
